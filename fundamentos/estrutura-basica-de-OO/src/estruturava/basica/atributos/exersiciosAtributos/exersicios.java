@@ -1,4 +1,4 @@
-package estrutura.basica.atributos.exersiciosAtributos;
+package estruturava.basica.atributos.exersiciosAtributos;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package estrutura.basica.classes.exersicios;
+package estruturava.basica.classes.exersicios;
 
 public class exersicios {
     //Neste exersicio iremos começar a mexer com classes.

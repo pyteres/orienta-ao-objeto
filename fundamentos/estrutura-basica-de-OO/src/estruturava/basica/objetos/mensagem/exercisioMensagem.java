@@ -1,4 +1,4 @@
-package estrutura.basica.objetos.mensagem;
+package estruturava.basica.objetos.mensagem;
 
 import java.util.Scanner;
 

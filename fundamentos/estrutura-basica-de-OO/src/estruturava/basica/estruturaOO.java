@@ -1,4 +1,4 @@
-package estrutura.basica;
+package estruturava.basica;
 
 public class estruturaOO {
     /*Apresentar os conceitos basicos da OO
