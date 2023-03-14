@@ -1,4 +1,4 @@
-package orientaçaoAObjeto;
+package orientaçaoAObjetos;
 
 public class fundamento {
 /*Definiçao
