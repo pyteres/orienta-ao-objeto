@@ -1,4 +1,4 @@
-package estruturava.basica.objetos.mensagem;
+package estrutura.basica.objetos.mensagem;
 
 public class mensagem {
     /*

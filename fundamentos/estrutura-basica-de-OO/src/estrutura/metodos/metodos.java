@@ -1,4 +1,4 @@
-package estruturava.metodos;
+package estrutura.metodos;
 
 public class metodos {
     /*

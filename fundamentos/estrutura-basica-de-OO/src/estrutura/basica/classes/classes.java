@@ -1,4 +1,4 @@
-package estruturava.basica.classes;
+package estrutura.basica.classes;
 
 public class classes {
     /*

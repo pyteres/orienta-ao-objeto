@@ -1,4 +1,4 @@
-package estruturava.metodos.exersiciosMetodos;
+package estrutura.metodos.exersiciosMetodos;
 
 import java.util.Scanner;
 

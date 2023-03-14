@@ -1,4 +1,4 @@
-package estruturava.basica.atributos;
+package estrutura.basica.atributos;
 
 public class atributo {
     /*

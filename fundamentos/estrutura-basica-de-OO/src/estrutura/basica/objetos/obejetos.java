@@ -1,4 +1,4 @@
-package estruturava.basica.objetos;
+package estrutura.basica.objetos;
 
 public class obejetos {
     /*
