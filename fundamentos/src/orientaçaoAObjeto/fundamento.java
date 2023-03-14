@@ -14,7 +14,7 @@ public class fundamento {
  */
  //Exemplo:
   //livro:
-   //nome:
+   //nome
    //autor:
    //editora:
    //numero de paginas:
